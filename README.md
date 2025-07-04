@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**amaiavaz/amaiavaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I used to design spaces — now I design interfaces.  
+I'm currently training as a fullstack developer (React, Node, MySQL).  
+Here you'll find my projects, ideas, and experiments as I learn.  
+This GitHub is my studio, where everything begins with a line of code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- 🌐 Frontend: JavaScript, React, SASS, CSS, Bootstrap
+- 🧠 Backend: Node.js, Express  
+- 🗄️ Database: MySQL, Sequelize  
+- ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📂 Projects
+
+Here are a few things I'm working on or have recently built:
+
+- 🔧 *Pawws* –
+  A cozy social network where humans and their pets each get a profile.  
+  Users can log in, update their info, and showcase their furry (or scaly!) friends.
+  Tech: Node.js · Express · MySQL · Sequelize · CSS Modules
+
+> More coming soon...
+
+---
+
+## 🌱 A bit more about me
+
+I come from a background in interior design, where I learned how to combine form and function — now I apply that thinking to web development.
+
+---
+
+## 📫 Get in touch
+
+- ✉️ amaiavzqz@gmail.com
+- 💼 www.linkedin.com/in/amaia-vazquez
+
+Thanks for visiting!
