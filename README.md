@@ -2,7 +2,7 @@
 
 `console.log("funciona en local")`
 
-💻 Full-Stack Developer & DevOps | 🐳 Docker enjoyer | ☁️ Azure (a veces funciona)
+💻 Full-Stack Developer & DevOps | 🐳 Docker | ☁️ Azure
 
 - 🎨 De diseñar interiores a diseñar interfaces (el karma sigue siendo real)
 - ☁️ Azure, Kubernetes y otras palabrejas profesionales
